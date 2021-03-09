@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JS
 - 📫 How to reach me: Email - gtambunt@gmail.com
 - 😄 Pronouns: He/Him
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtambunt&theme=vue)
