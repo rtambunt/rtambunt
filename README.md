@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my portfolio website!
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS and React!
 - 📫 How to reach me: Email - gtambunt@gmail.com
 - 😄 Pronouns: He/Him
 
